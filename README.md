@@ -26,6 +26,12 @@
 
 ---
 
+## DEMO Video link:
+
+- ### [YouTube](www.youtube.com).
+
+- ### [LinkedIn](http://www.LinkedIn.com).
+
 ## Introduction
 
 The College Event Registration Project with Python is designed to facilitate event registration for students at MBU (Mohan Babu University). This project provides the Command line interface (CLI) for students to register for various events organized by the college. The system ensures smooth registration, validates user inputs, generates event passes (in the form of QR code), and creates event MBU Event Uniform with logo.
@@ -158,6 +164,8 @@ pytest test_project.py
 ### 1. QR Code Event Pass ( PDF)
 
 [PDF with mobile number as file name](9160842635.pdf)
+
+- [QR Code Scanner Website](https://scanqr.org/#scan)
 
 ### 2. Event Uniform preview With Logo ( PDF)
 
