@@ -30,7 +30,7 @@
 
 - ### [YouTube](https://youtu.be/4N7UCZvk9f8).
 
-- ### [LinkedIn]([http://www.LinkedIn.com](https://www.linkedin.com/posts/sammetamaheshbabu_cs50-python-project-activity-7169033730592813058-wXCX?utm_source=share&utm_medium=member_desktop)).
+- ### [LinkedIn]([http://www.LinkedIn.com](https://www.linkedin.com/posts/sammetamaheshbabu_cs50-python-project-activity-7169033730592813058-wXCX?utm_source=share&utm_medium=member_desktop).
 
 ## Introduction
 
