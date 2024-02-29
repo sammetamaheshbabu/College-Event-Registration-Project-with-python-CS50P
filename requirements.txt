@@ -1,10 +1,5 @@
-# List of libraries this project requires
-pip install emoji
-
-pip install pyfiglet
-
-pip install qrcode
-
-pip install fpdf2
-
-pip install pytest
+emoji
+pyfiglet
+qrcode
+fpdf2
+pytest
